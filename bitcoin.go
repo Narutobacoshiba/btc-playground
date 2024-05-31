@@ -12,8 +12,8 @@ import (
 const (
 	seed          = "3a1accd3616d71a2c7b1f576b4a50d0bad427628af7a207afdbc5c878d5ad975"
 	BtcdHost      = "localhost:18556"
-	BtcdUser      = "cPPMy7IGkQDiyGaXnJBRNyzqEmc="
-	BtcdPass      = "Q1rLc0iXJCM5icWynYAQt7dS+O0="
+	BtcdUser      = "aTu8e04uPlE7yYoLU3o7pD6FplQ="
+	BtcdPass      = "qQcvrVZf0AtiA1Ta/NtX34Xmvsk="
 	BlockTime     = 3 * time.Second
 	MiningAddress = "SPTvzNhFYFaFuhoRbXMgsgUMtUcS2NxrhM"
 	WalletHost    = "localhost:18554"
